@@ -11376,6 +11376,19 @@ section {
   pointer-events: auto;
 }
 
+.screen-one {
+  position: absolute;
+  background-size: cover;
+  pointer-events: auto;
+}
+
+.screen-two {
+  position: absolute;
+  left: 100px;
+  background-size: cover;
+  pointer-events: auto;
+}
+
 .device .button {
   position: absolute;
   cursor: pointer;
